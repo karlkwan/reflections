@@ -20,6 +20,8 @@ When I need to maintain a seperate version of the same software for different ty
 
 How do the diagrams help you visualize the branch structure?
 
+ It can help to identify  unreachable commit and the relationship among commits from different branches. Merging of usable codes will be easier with this visualization.
+ 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
