@@ -1,11 +1,10 @@
 How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+was introduced.
 
     Mistakes should be found at the places that have been modified from previous version.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
-
     Easiler for the programmer and the others to understand  the program source or back track to a previously 
     known working state.
 
@@ -33,5 +32,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Use it to carry out version control for my future projects.
+    Use it to carry out version control for my future projects. Try to explore team work with Git Hub.
     
