@@ -15,7 +15,8 @@ Follow by a git commit command.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-When I need to maintain a seperate version of the same software for different types of customers.  For example, to support localized versions .
+When I need to maintain a seperate version of the same software for different types of customers.  For example, to support localized versions. 
+ Or experimental version.
 
 How do the diagrams help you visualize the branch structure?
 
