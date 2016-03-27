@@ -28,5 +28,5 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+ In this approach, we are resolving all the conflict between my own update to the master befor the pull request. It will reduce the risk of having multiple merge/conflicts session co-existing at the same time.
 
-    Fill in your answer here
