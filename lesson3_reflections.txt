@@ -24,7 +24,7 @@ We can compare the local changes to the last known state fo the remote in offlin
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
- Without a version control system liek git / Github. Collaboration may require more planning and each member will be assigned to only working in a specific subset of the programming files. It will be easier, as no conflict will be occurred. But it is harder for team memeber to help each other in terms of debugging or develop work when it is needed.
+ Without a version control system like git / Github. Collaboration may require more planning and each member will be assigned to only working in a specific subset of the programming files. It will be easier, as no conflict will be occurred. But it is harder for team memeber to help each other in terms of debugging or develop work when it is needed.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
